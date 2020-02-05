@@ -14,7 +14,7 @@
 ## 세부 일정
 |날짜|시간|풀이 문제|
 |----|---------|---------------------------------------------------|
-|2/5|19:00-21:00|Orientation|
+|2/5|19:00-21:00|Orientation <br> HW : [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
 |2/12|19:00-21:00|[SWEA - 5656.벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|
 |2/19|19:00-21:00|TBD|
 |3/4|19:00-21:00|TBD|
@@ -23,4 +23,3 @@
 |3/25|19:00-21:00|TBD|
 |4/1|19:00-21:00|TBD|
 |4/8|19:00-21:00|TBD|
-
