@@ -16,7 +16,7 @@
 |----|---------|---------------------------------------------------|
 |2/5|19:00-21:00|Orientation <br> HW : [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
 |2/12|19:00-21:00|[SWEA - 5656.벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|
-|2/19|19:00-21:00|TBD|
+|2/19|19:00-21:00|[SWEA - 4013.특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH)|
 |3/4|19:00-21:00|TBD|
 |3/11|19:00-21:00|TBD|
 |3/18|19:00-21:00|TBD|
