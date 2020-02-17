@@ -43,7 +43,7 @@ int solution(string numbers) {
     s = numbers;
 
     sort(s.begin(), s.end());
-    set<int> primes; //set <data type> name; -> inorder traversal 자동 출력
+    set<int> primes;
     do {
         for (int i = 1; i <= s.size(); i++)
         {
